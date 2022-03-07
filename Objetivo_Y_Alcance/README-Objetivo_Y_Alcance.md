@@ -11,3 +11,5 @@ Este proyecto tiene la finalidad de aplicar los conocimientos adquiridos de amba
 Así mismo, encontramos que, en cuanto a las API's, bases de datos y otros servicios externos consumidos, el proyecto se limitará a alcanzar lo máximo que las versiones gratuitas permitan, contemplando en ello la cantidad de peticiones al servidor, información almacenada en base de datos, uso de plantillas, etc.
 
 Finalmente, los requerimientos de seguridad se cumpliran en cuanto a lo visto en ambas materias, pues el objetivo del proyecto no es crear una plataforma que sea totalmente invulnerable a posibles ataques que puedan comprometer la información almacenada o el servicio brindado.
+
+![Imagen de objetivo de proyecto](https://www.recursosenprojectmanagement.com/wp-content/uploads/2014/05/target-1151287_640.png)
