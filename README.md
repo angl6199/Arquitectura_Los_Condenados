@@ -1,5 +1,4 @@
 # Proyecto Final Aqruitectura
-
 ## Nombre de Proyecto: Sistema gestor de solicitudes de pago
 ## Equipo: Los Condenados
 
