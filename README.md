@@ -1,2 +1,12 @@
-# Arquitectura_Los_Condenados
-Este es el repositorio para el proyecto final de la materia de "Diseño y arquitectura de Software" del equipo Los Condenados.
+# Proyecto Final Aqruitectura
+
+## Nombre de Proyecto: Sistema gestor de solicitudes de pago
+## Equipo: Los Condenados
+
+### Integrantes
+- Mathilde Janine Chantal Tournemire
+- Samuel Kareem Cueto González
+- Javier Arturo Flores Zavala
+- Carlos Andrés Conde Besil
+- José Carlos Acosta García
+- Ángel Heredia Vázquez
