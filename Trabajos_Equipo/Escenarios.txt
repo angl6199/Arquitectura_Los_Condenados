@@ -1,0 +1,20 @@
+Modifiable: Independiente del hardware
+Usability: Que sea fácil y ágil de usar y aprender.
+Performance: Que las operaciones o los comandos pedidos no demoren mucho. 
+Availability: Para que esté disponible cuando lo necesitamos utilizar. 
+Compatibilidad: Para que pueda usar otra marca de dispositivos. Compatible con asistentes inteligentes como Alexa, Google Home, HomePod 
+Seguridad: Que el acceso sea restringido solo para usuarios autorizados.
+Modifiable: Independiente del hardware y Performance: Que las operaciones o los comandos pedidos no demoren mucho. 
+Llegan comandos de marcas diferentes y son procesados por el sistema de manejo que en runtime ejecuta los comandos en menos de dos segundos.
+
+Usability: Que sea fácil y ágil de usar y aprender.
+El usuario abre la aplicación donde observará un menú de recomendaciones y funciones sugeridas que le permiten familiarizarse con las funciones del sistema. 
+
+Availability: Para que esté disponible cuando lo necesitamos utilizar. 
+El sistema deberá responder ante las peticiones de los usuarios sin importar el día o la hora.
+
+Compatibilidad: Para que pueda usar otra marca de dispositivos. Compatible con asistentes inteligentes como Alexa, Google Home, HomePod 
+El sistema podrá integrarse y emitir comandos para las diversas plataformas y asistentes inteligentes.
+
+Seguridad: Que el acceso sea restringido solo para usuarios autorizados. 
+Un usuario que no se encuentre registrado no podrá emitir comandos ni tener acceso a las funcionalidades del sistema.
