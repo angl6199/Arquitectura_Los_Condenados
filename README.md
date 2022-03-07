@@ -10,5 +10,9 @@
 - José Carlos Acosta García
 - Ángel Heredia Vázquez
 
-### Enlaces
+### Secciones
 - [Contrato](Contrato/README-Contrato.md)
+- [Documentos por fase](Documentos_Por_Fase/README-Documentos_Por_Fase.md)
+- [Misión y visión](Mision_Y_Vision/README-Mision_Y_Vision.md)
+- [Objetivo y alcance](Objetivo_Y_Alcance/README-Objetivo_Y_Alcance.md)
+- [Trabajos en equipo](Trabajos_Equipo/README-Trabajos_Equipo.md)
